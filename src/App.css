@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.flex {
+  display: flex;
+  background: rgba(11, 8, 31, 0.333);
+  color: #fff;
+  height: 15vh;
+  justify-content: space-around;
+  align-items: center;
+}
